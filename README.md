@@ -2,7 +2,15 @@
 🌸💫Hanaa| هَـنـاء
 
 
+
+
+
+
+
 A Flutter application for browsing meal categories, exploring recipes with ingredients and steps, and rating dishes.
+
+
+
 
 
 
@@ -12,6 +20,11 @@ A Flutter application for browsing meal categories, exploring recipes with ingre
 3. **Category Meals Screen:** Shows dishes belonging to the selected category.
 4. **Meal Detail Screen:** Shows meal image, ingredients list, and cooking instructions.
 5. **Rating Screen:** Allows users to give a star rating and submit feedback.
+
+
+
+
+
 
 
 
@@ -26,7 +39,12 @@ A Flutter application for browsing meal categories, exploring recipes with ingre
 
 
 
+
+
+
+
   📁 Project Structure:
+
 
 - `lib/models/` : Data models for API data.
 - `lib/services/` : API requests handling.
