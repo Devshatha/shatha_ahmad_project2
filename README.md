@@ -68,3 +68,4 @@ A Flutter application for browsing meal categories, exploring recipes with ingre
 
 <img width="400" height="550" alt="Screenshot 2026-09-05 220708" src="https://github.com/user-attachments/assets/d246e5d4-45f8-4ec4-a23e-74c215b1b0fb" />
 
+Shatha🩷💫
