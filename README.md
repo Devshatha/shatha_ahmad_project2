@@ -38,7 +38,13 @@ A Flutter application for browsing meal categories, exploring recipes with ingre
 
 
 
+ 🧩 Widgets Used
 
+- **Layout:** `Scaffold`, `AppBar`, `Column`, `Row`, `Container`, `SizedBox`, `Card`
+- **Lists & Grids:** `GridView.builder`, `SingleChildScrollView`
+- **Data & Media:** `FutureBuilder`, `Image.network`, `Image.asset`, `CircularProgressIndicator`
+- **User Input & Action:** `ElevatedButton`, `IconButton`, `TextField`, `InkWell`
+- **Text & Feedback:** `Text`, `Icon`, `SnackBar`
 
 
 
